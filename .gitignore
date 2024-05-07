@@ -1,0 +1,13 @@
+tasks.db
+test.db
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.idea/
+/static/
+*.env
+/store/
+/.venv/
+/tests/
